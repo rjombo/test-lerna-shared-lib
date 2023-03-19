@@ -1,6 +1,6 @@
 {
   "name": "@monowork-shared/nestjs-package-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NestJS npm package template",
   "main": "dist/index.js",
   "author": "Monowork",
