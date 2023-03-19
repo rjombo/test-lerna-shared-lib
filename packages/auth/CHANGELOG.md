@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/rjombo/test-lerna-shared-lib/compare/@monowork-shared/nest-auth@1.3.0...@monowork-shared/nest-auth@1.4.0) (2023-03-19)
+
+
+### Features
+
+* add log to auth guard!! ([7439559](https://github.com/rjombo/test-lerna-shared-lib/commit/7439559629e97675a7cb3890b53bab97b733a1a0))
+* add log to auth guard!! ([67a4c2f](https://github.com/rjombo/test-lerna-shared-lib/commit/67a4c2f71b4e053ebabd09b8bfa4d24877b38b64))
+
+
+
+
+
 # [1.3.0](https://github.com/rjombo/test-lerna-shared-lib/compare/@monowork-shared/nest-auth@1.2.4...@monowork-shared/nest-auth@1.3.0) (2023-03-19)
 
 
