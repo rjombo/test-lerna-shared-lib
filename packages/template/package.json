@@ -1,6 +1,6 @@
 {
   "name": "@monowork-shared/nestjs-package-template",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "NestJS npm package template",
   "main": "dist/index.js",
   "author": "Monowork",
@@ -32,7 +32,7 @@
   "peerDependencies": {
     "@nestjs/common": "^8.0.0 || ^9.0.0"
   },
-  "gitHead": "a94168016b63815cdff133bf49354a062b60dc88",
+  "gitHead": "1a0c19a2a684bdc6bb4beeec1b83b5026ec0b6fc",
   "private": false,
   "publishConfig": {
     "access": "public",
