@@ -32,5 +32,5 @@
   "peerDependencies": {
     "@nestjs/common": "^8.0.0 || ^9.0.0"
   },
-  "gitHead": "90bf1556ccec246800107ba47228affb874508ca"
+  "gitHead": "0854efeee63d709c1fe05f2fb709527856b7c7f1"
 }
