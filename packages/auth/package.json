@@ -32,5 +32,10 @@
   "peerDependencies": {
     "@nestjs/common": "^8.0.0 || ^9.0.0"
   },
-  "gitHead": "0854efeee63d709c1fe05f2fb709527856b7c7f1"
+  "gitHead": "6e23246ee640eb17015ce7035b0e1581f4bd127f",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
