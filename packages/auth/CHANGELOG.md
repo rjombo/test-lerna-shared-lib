@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/rjombo/test-lerna-shared-lib/compare/@monowork-shared/nest-auth@1.2.1...@monowork-shared/nest-auth@1.2.2) (2023-03-19)
+
+
+### Bug Fixes
+
+* change prepare script to prepublishOnly ([f70ff16](https://github.com/rjombo/test-lerna-shared-lib/commit/f70ff16ec8e7d6fefec393cbd114ea71a3ab78ce))
+* interface imports ([d39f356](https://github.com/rjombo/test-lerna-shared-lib/commit/d39f356e3292ffc052afe9708d8c6e4c6846a0c4))
+
+
+
+
+
 ## [1.2.1](https://github.com/rjombo/test-lerna-shared-lib/compare/@monowork-shared/nest-auth@1.2.0...@monowork-shared/nest-auth@1.2.1) (2023-03-19)
 
 
