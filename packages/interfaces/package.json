@@ -1,6 +1,6 @@
 {
   "name": "@monowork-shared/nestjs-interfaces",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "NestJS npm package template",
   "main": "dist/index.js",
   "author": "Monowork",
@@ -33,7 +33,7 @@
     "@nestjs/common": "^8.0.0 || ^9.0.0"
   },
   "gitHead": "1a0c19a2a684bdc6bb4beeec1b83b5026ec0b6fc",
-  "private": true,
+  "private": false,
   "publishConfig": {
     "registry": "http://localhost:4873"
   }
