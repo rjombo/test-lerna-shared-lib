@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "lerna": "^6.5.1"
   },
   "dependencies": {
@@ -13,5 +14,10 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:rjombo/test-lerna-shared-lib.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
