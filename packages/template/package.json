@@ -32,7 +32,7 @@
   "peerDependencies": {
     "@nestjs/common": "^8.0.0 || ^9.0.0"
   },
-  "gitHead": "1a0c19a2a684bdc6bb4beeec1b83b5026ec0b6fc",
+  "gitHead": "0e1d459256ef548da8f68fb40af065fdf2a66a9e",
   "private": false,
   "publishConfig": {
     "registry": "http://0.0.0.0:4873/"
