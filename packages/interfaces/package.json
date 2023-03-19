@@ -33,9 +33,8 @@
     "@nestjs/common": "^8.0.0 || ^9.0.0"
   },
   "gitHead": "1a0c19a2a684bdc6bb4beeec1b83b5026ec0b6fc",
-  "private": false,
+  "private": true,
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://localhost:4873"
   }
 }
