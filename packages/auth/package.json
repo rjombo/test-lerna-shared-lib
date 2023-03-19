@@ -1,6 +1,6 @@
 {
   "name": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NestJS npm package template",
   "main": "dist/index.js",
   "scripts": {
@@ -19,7 +19,6 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
     "@types/node": "^18.11.6",
