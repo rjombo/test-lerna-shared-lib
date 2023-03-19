@@ -1,6 +1,6 @@
 import {CanActivate, ExecutionContext, Inject, Injectable} from '@nestjs/common';
 import {map, Observable, of} from 'rxjs';
-import {AuthGuard} from "@monowork-shared/nestjs-interfaces";
+import {AuthGuard} from "interfaces";
 
 @Injectable()
 export class AccessTokenGuard implements CanActivate, AuthGuard {
