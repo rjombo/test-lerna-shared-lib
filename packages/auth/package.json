@@ -1,6 +1,6 @@
 {
   "name": "@monowork-shared/nest-auth",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "NestJS npm package template",
   "main": "dist/index.js",
   "author": "Monowork",
