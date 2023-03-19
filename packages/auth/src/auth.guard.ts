@@ -4,6 +4,7 @@ import {map, Observable, of} from 'rxjs';
 @Injectable()
 export class AccessTokenGuard implements CanActivate {
   constructor() {
+    console.log('AccessTokenGuard')
   }
 
   canActivate(context: ExecutionContext): Observable<boolean> {
