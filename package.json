@@ -9,5 +9,9 @@
   },
   "dependencies": {
     "g": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rjombo/test-lerna-shared-lib.git"
   }
 }
