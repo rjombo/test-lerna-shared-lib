@@ -5,7 +5,6 @@ import {AuthGuard} from "@monowork-shared/nestjs-interfaces";
 @Injectable()
 export class AccessTokenGuard implements CanActivate, AuthGuard {
   constructor() {
-    console.log('AccessTokenGuard')
   }
 
   canActivate(context: ExecutionContext): Observable<boolean> {
