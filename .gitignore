@@ -38,3 +38,4 @@ lerna-debug.log*
 tmp
 docker-compose.override.yml
 /src/generated/
+.idea
