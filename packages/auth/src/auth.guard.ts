@@ -5,7 +5,7 @@ import {AuthGuard} from "interfaces";
 @Injectable()
 export class AccessTokenGuard implements CanActivate, AuthGuard {
   constructor() {
-    console.log('Bruh moment!')
+    console.log('Bruh moment')
   }
 
   canActivate(context: ExecutionContext): Observable<boolean> {
