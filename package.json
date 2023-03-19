@@ -14,10 +14,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:rjombo/test-lerna-shared-lib.git"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
   }
 }
