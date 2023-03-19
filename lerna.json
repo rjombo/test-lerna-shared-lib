@@ -10,5 +10,5 @@
       "message": "chore(release): release"
     }
   },
-  "npmClient": "npm",
+  "npmClient": "npm"
 }
