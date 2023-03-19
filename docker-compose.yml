@@ -12,7 +12,7 @@ services:
       - '4873:4873'
 #    volumes:
 #      - './storage:/verdaccio/storage'
-#      - './config:/verdaccio/conf'
+#      - './conf/v6:/verdaccio/conf'
 #      - './plugins:/verdaccio/plugins'
 networks:
   node-network:
